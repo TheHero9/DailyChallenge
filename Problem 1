@@ -25,6 +25,7 @@ function returnPath(path) {
   return result;
 }
 
+
 console.log(returnPath("/usr/bin/../bin/./scripts/../"));
 console.log(returnPath("/../../../../../../a"));
 console.log(returnPath("/a/./b/c/"));
