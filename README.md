@@ -1,2 +1,2 @@
-# DailyCh
+# Some info
 Daily challenges
