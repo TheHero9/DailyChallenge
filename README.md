@@ -4,7 +4,7 @@
 
 ### *Standardized path problem*
   
-This problem was asked by Quora.
+  This problem was asked by Quora.
 Given an absolute pathname that may have . or .. as part of it, return the shortest standardized path.
 For example, given /usr/bin/../bin/./scripts/../, return /usr/bin/.
 
@@ -14,7 +14,7 @@ For example, given /usr/bin/../bin/./scripts/../, return /usr/bin/.
 
 ###  Encoding & Decoding 
 
-This problem was asked by Amazon. Run-length encoding is a fast and simple method of encoding strings. The basic idea is to represent 
+  This problem was asked by Amazon. Run-length encoding is a fast and simple method of encoding strings. The basic idea is to represent 
 repeated successive characters as a single count and character. For example, the string AAAABBBCCDAA would
 be encoded as 4A3B2C1D2A.
 
