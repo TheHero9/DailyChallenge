@@ -24,3 +24,13 @@ You can assume the string to be decoded is valid.
 
 Difficulty: Easy
 
+
+
+## **Problem 3:**
+
+###  Median
+This problem was asked by Microsoft.
+Compute the running median of a sequence of numbers. That is, given a stream of numbers, print out the median of the list.
+Recall that the median of an even-numbered list is the average of the two middle numbers.
+
+Difficulty: Easy
