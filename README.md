@@ -40,6 +40,6 @@ Difficulty: Easy
 
 ###  *Permutations*
 This problem was asked by Microsoft.
+Given a string of numbers, return all possible permutations.
 
 Difficulty: Easy
-Given a string of numbers, return all possible permutations.
