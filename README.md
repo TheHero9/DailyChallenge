@@ -34,3 +34,12 @@ Compute the running median of a sequence of numbers. That is, given a stream of 
 Recall that the median of an even-numbered list is the average of the two middle numbers.
 
 Difficulty: Easy
+
+
+## **Problem 4:**
+
+###  *Permutations*
+This problem was asked by Microsoft.
+
+Difficulty: Easy
+Given a string of numbers, return all possible permutations.
