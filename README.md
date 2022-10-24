@@ -52,3 +52,12 @@ For example, given "hello world here", return "here world hello"
 
 Difficulty: Medium
 
+
+## **Problem 6:**
+
+###  *Square & Sort*
+This problem was asked by Google.
+Given a sorted list of integers, square the elements and give the output in sorted order.
+For example, given [-9, -2, 0, 2, 3], return [0, 4, 4, 9, 81].
+
+Difficulty: Easy
