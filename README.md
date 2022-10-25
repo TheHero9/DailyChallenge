@@ -61,3 +61,11 @@ Given a sorted list of integers, square the elements and give the output in sort
 For example, given [-9, -2, 0, 2, 3], return [0, 4, 4, 9, 81].
 
 Difficulty: Easy
+
+
+## **Problem 7:**
+
+###  *Square*
+Given a real number "n", find the square root of "n". For example, given n=9, return 3.
+
+Difficulty: Medium
