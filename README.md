@@ -69,3 +69,13 @@ Difficulty: Easy
 Given a real number "n", find the square root of "n". For example, given n=9, return 3.
 
 Difficulty: Medium
+
+
+## **Problem 8:**
+
+### *Switch Numbers*
+This problem was asked by Google.
+Given the head of a singly linked list, swap every two nodes and return its head.
+For example, given 1 -> 2 -> 3 -> 4, return 2 -> 1 -> 4 -> 3.
+
+Difficulty: Easy
