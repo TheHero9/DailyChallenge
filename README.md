@@ -79,3 +79,14 @@ Given the head of a singly linked list, swap every two nodes and return its head
 For example, given 1 -> 2 -> 3 -> 4, return 2 -> 1 -> 4 -> 3.
 
 Difficulty: Easy
+
+
+## **Problem 9:**
+
+## *Recurring Character*
+
+This problem was asked by Google.
+Given a string, return the first recurring character in it, or null if there is no recurring character.
+For example, given the string acbbac, return b. Given the string abcdef, return null.
+
+Difficulty: Easy
