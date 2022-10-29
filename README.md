@@ -90,3 +90,13 @@ Given a string, return the first recurring character in it, or null if there is 
 For example, given the string acbbac, return b. Given the string abcdef, return null.
 
 Difficulty: Easy
+
+
+## **Problem 10:**
+
+## *Last N Element*
+
+Write a JavaScript function to get the last element of an array. 
+Passing a parameter 'n' will return the last 'n' elements of the array. 
+
+Difficulty: Easy
