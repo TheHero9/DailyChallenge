@@ -134,3 +134,15 @@ For example, given [100, 4, 200, 1, 3, 2], the longest consecutive element seque
 Your algorithm should run in O(n) complexity.
 
 Difficulty: Medium
+
+
+## **Problem 14**
+
+### *Palindromes*
+
+This problem was asked by Google.
+Given a string, split it into as few strings as possible such that each string is a palindrome.
+For example, given the input string racecarannakayak, return ["racecar", "anna", "kayak"].
+Given the input string abc, return ["a", "b", "c"].
+
+Difficulty: Medium
