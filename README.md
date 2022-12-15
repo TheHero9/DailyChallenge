@@ -181,6 +181,7 @@ For example, given the following matrix:
 [16, 17, 18, 19, 20]
 ]
 You should print out the following:
+
 1, 2, 34 ,5 ,10 ,15 ,20 ,19 ,18 ,17 ,16 ,11 ,6 ,7 ,8 ,9 ,14 ,13 ,12
 
 Difficulty: Easy
