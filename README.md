@@ -200,3 +200,6 @@ arrayPairSum([3, 5, 6, 8], 10) // []
 Difficulty: Medium
 
 
+## **Problem 19**
+
+### *Combine two Strings*
