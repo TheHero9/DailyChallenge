@@ -218,3 +218,16 @@ For example, the first ten Fibonacci numbers are:
 Write a function that accepts a number and returns the number at that position in the fibonnaci sequence.
 
 Difficulty: Medium
+
+
+## **Problem 20**
+
+### *Fibonacci Next Number*
+
+Write a function that accepts an array of random integers and an integer n. 
+Determine the number of times where two integers in the array 
+have the difference of n.
+integerDifference([1, 1, 5, 6, 9, 16, 27], 4) //8
+integerDifference([1, 1, 3, 3], 2) //6
+
+Difficulty: Easy
