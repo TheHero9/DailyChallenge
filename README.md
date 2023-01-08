@@ -231,3 +231,12 @@ integerDifference([1, 1, 5, 6, 9, 16, 27], 4) //8
 integerDifference([1, 1, 3, 3], 2) //6
 
 Difficulty: Easy
+
+
+
+## **Problem 21**
+
+### *Flat Array*
+Write a function that accepts a multi dimensional array and returns a flattened version.
+flattenedArray([1, 2, [3, [4], 5, 6], 7]); //[1, 2, 3, 4, 5, 6, 7]
+flattenedArray([1, [3, [4, [9, [0]]]], 7]); //[1, 3, 4, 9, 0, 7]
