@@ -71,7 +71,7 @@ const threatens = function (qX, qY, kX, kY) {
     return horizontal || vertical || diagonal
   }
   
-  console.log(threatens2(5, 3, 3,7)); //false
+  console.log(threatens2(5, 3, 3, 7)); //false
   console.log(threatens2(2, 3, 1, 4)) //true
   console.log(threatens2(2, 8, 2, 1)) //true
   
