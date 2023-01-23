@@ -55,7 +55,7 @@ const threatens = function (qX, qY, kX, kY) {
   console.log(threatens(2, 3, 1, 4)) //true
   console.log(threatens(2, 8, 2, 1)) //true
 
-  
+
   
   //Solution 2
   const threatens2 = function (qX, qY, kX, kY) {

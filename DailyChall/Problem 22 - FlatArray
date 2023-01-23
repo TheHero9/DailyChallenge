@@ -1,4 +1,5 @@
-// Write a function that accepts a multi dimensional array and returns a flattened version.
+// Write a function that accepts a multi dimensional array and returns
+//  a flattened version.
 
 
 let flattenedArray = function (array) {
