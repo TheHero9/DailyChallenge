@@ -236,7 +236,30 @@ Difficulty: Easy
 
 ## **Problem 21**
 
+### *Integer Difference*
+Write a function that accepts an array of random integers and an integer n. 
+Determine the number of times where two integers in the array 
+have the difference of n.
+console.log(integerDifference([1, 1, 5, 6, 9, 16, 27], 4)); //8
+console.log(integerDifference([1, 1, 3, 3], 2)); //6
+
+Difficutlry: Easy
+
+
+## **Problem 22**
+
 ### *Flat Array*
 Write a function that accepts a multi dimensional array and returns a flattened version.
 flattenedArray([1, 2, [3, [4], 5, 6], 7]); //[1, 2, 3, 4, 5, 6, 7]
 flattenedArray([1, [3, [4, [9, [0]]]], 7]); //[1, 3, 4, 9, 0, 7]
+
+
+## **Problem 23**
+
+### *Queen checks King*
+Given an imaginary chess board of size m x n including only 
+the Queen and the King write a function that takes the positions 
+(coordinates) of both the Queen and the King as parameters and returns a 
+boolean telling whether or not the King is threatened by the Queen.
+
+Difficulty: Medium
