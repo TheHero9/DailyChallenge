@@ -66,7 +66,7 @@ Difficulty: Easy
 
 ## **Problem 7:**
 
-###  *Square*
+###  *Square Root*
 Given a real number "n", find the square root of "n". For example, given n=9, return 3.
 
 Difficulty: Medium
@@ -97,7 +97,7 @@ Difficulty: Easy
 
 ## *Last N Element*
 
-Write a JavaScript function to get the last element of an array. 
+Write a function to get the last element of an array. 
 Passing a parameter 'n' will return the last 'n' elements of the array. 
 
 Difficulty: Easy
