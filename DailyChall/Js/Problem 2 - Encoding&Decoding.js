@@ -45,20 +45,20 @@ function Encoding(string) {
 
 //DECODING
   function Decoding(string) {
-    let decoded = ""
+     let decoded = ""
     let index = 0
-  
+
     while(index< string.length){
-      //     old string + string[WhatLetter].repeat(string[HowManyTimes])
-      decoded = decoded + string[index+1].repeat(string[index])
-  
-      //Go to the next pair
-      index += 2
-    }
-  
-    return decoded
-  
+        let num = string[index]
+        let letter = String(string[index+1])
+        decoded = decoded + letter.repeat(num)
+
+    index += 2
   }
+
+  return decoded
+
+}
 
 console.log(Decoding("3A")); // 'AAA'
 console.log(Decoding("4A3B2C1D2A")); // 'AAAABBBCCDAA'
