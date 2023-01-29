@@ -1,7 +1,6 @@
 # Challenges:
 
-## **Problem 1:**
-
+## **Problem 1**
 ### *Standardized path problem*
   
   This problem was asked by Quora.
@@ -11,8 +10,7 @@ For example, given /usr/bin/../bin/./scripts/../, return /usr/bin/.
 Difficulty: Medium
 
 
-## **Problem 2:**
-
+## **Problem 2**
 ###  *Encoding & Decoding*
 
   This problem was asked by Amazon. Run-length encoding is a fast and simple method of encoding strings. The basic idea is to represent 
@@ -27,8 +25,7 @@ Difficulty: Easy
 
 
 
-## **Problem 3:**
-
+## **Problem 3**
 ###  *Median*
 This problem was asked by Microsoft.
 Compute the running median of a sequence of numbers. That is, given a stream of numbers, print out the median of the list.
@@ -37,16 +34,14 @@ Recall that the median of an even-numbered list is the average of the two middle
 Difficulty: Easy
 
 
-## **Problem 4:**
-
+## **Problem 4**
 ###  *Permutations*
 This problem was asked by Microsoft.
 Given a string of numbers, return all possible permutations.
 
 Difficulty: Easy
 
-## **Problem 5:**
-
+## **Problem 5**
 ###  *Reverse words*
 This problem was asked by Google. Given a string of words delimited by spaces, reverse the words in string. 
 For example, given "hello world here", return "here world hello"
@@ -54,8 +49,7 @@ For example, given "hello world here", return "here world hello"
 Difficulty: Medium
 
 
-## **Problem 6:**
-
+## **Problem 6**
 ###  *Square & Sort*
 This problem was asked by Google.
 Given a sorted list of integers, square the elements and give the output in sorted order.
@@ -64,16 +58,14 @@ For example, given [-9, -2, 0, 2, 3], return [0, 4, 4, 9, 81].
 Difficulty: Easy
 
 
-## **Problem 7:**
-
+## **Problem 7**
 ###  *Square Root*
 Given a real number "n", find the square root of "n". For example, given n=9, return 3.
 
 Difficulty: Medium
 
 
-## **Problem 8:**
-
+## **Problem 8**
 ### *Switch Numbers*
 This problem was asked by Google.
 Given the head of a singly linked list, swap every two nodes and return its head.
@@ -82,8 +74,7 @@ For example, given 1 -> 2 -> 3 -> 4, return 2 -> 1 -> 4 -> 3.
 Difficulty: Easy
 
 
-## **Problem 9:**
-
+## **Problem 9**
 ## *Recurring Character*
 
 This problem was asked by Google.
@@ -93,8 +84,7 @@ For example, given the string acbbac, return b. Given the string abcdef, return 
 Difficulty: Easy
 
 
-## **Problem 10:**
-
+## **Problem 10**
 ## *Last N Element*
 
 Write a function to get the last element of an array. 
@@ -102,8 +92,7 @@ Passing a parameter 'n' will return the last 'n' elements of the array.
 
 Difficulty: Easy
 
-## **Problem 11:**
-
+## **Problem 11**
 ## *Two Numbers Sum*
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
@@ -114,7 +103,6 @@ Difficulty: Easy
 
 
 ## **Problem 12**
-
 ### *Occurencies*
 
 This problem was asked by Google.
@@ -125,7 +113,6 @@ Difficulty: Easy
 
 
 ## **Problem 13**
-
 ### *Occurencies*
 
 This problem was asked by Microsoft.
@@ -137,7 +124,6 @@ Difficulty: Medium
 
 
 ## **Problem 14**
-
 ### *Palindromes*
 
 This problem was asked by Google.
@@ -149,7 +135,6 @@ Difficulty: Medium
 
 
 ## **Problem 15**
-
 ### *Palindrome Number*
 This problem was asked by Palantir.
 Write a program that checks whether an integer is a palindrome.
@@ -157,7 +142,6 @@ For example, 121 is a palindrome, as well as 888. 678 is not a palindrome.
 Do not convert the integer into a string.
 
 ## **Problem 16**
-
 ### *PalindromeNumber*
 This problem was asked by Google.
 The power set of a set is the set of all its subsets. Write a function that, given a set, generates its power set.
@@ -167,7 +151,6 @@ You may also use a list or array to represent a set.
 Difficulty: Easy
 
 ## **Problem 17**
-
 ### *Matrix Print*
 
 This problem was asked by Amazon.
@@ -187,7 +170,6 @@ You should print out the following:
 Difficulty: Easy
 
 ## **Problem 18**
-
 ### *Array Pair Sum*
 Given an integer array, output all distinct pairs that sum up to a specific value k. Consider the fact that the same number can add up to k with its duplicates in the array.
 
@@ -201,7 +183,6 @@ Difficulty: Medium
 
 
 ## **Problem 19**
-
 ### *Missing Element*
 There is an array of non-negative integers. A second array is formed by shuffling the elements of the first array and deleting a random element. Given these two arrays, find which element is missing in the second array.
 
@@ -209,7 +190,6 @@ Difficulty: Easy
 
 
 ## **Problem 20**
-
 ### *Fibonacci Next Number*
 By definition, the first two numbers in the Fibonacci sequence are 0 and 1, and each subsequent number is the sum of the previous two.
 
@@ -221,7 +201,6 @@ Difficulty: Medium
 
 
 ## **Problem 20**
-
 ### *Fibonacci Next Number*
 
 Write a function that accepts an array of random integers and an integer n. 
@@ -235,7 +214,6 @@ Difficulty: Easy
 
 
 ## **Problem 21**
-
 ### *Integer Difference*
 Write a function that accepts an array of random integers and an integer n. 
 Determine the number of times where two integers in the array 
@@ -247,7 +225,6 @@ Difficutlry: Easy
 
 
 ## **Problem 22**
-
 ### *Flat Array*
 Write a function that accepts a multi dimensional array and returns a flattened version.
 flattenedArray([1, 2, [3, [4], 5, 6], 7]); //[1, 2, 3, 4, 5, 6, 7]
@@ -256,7 +233,6 @@ flattenedArray([1, [3, [4, [9, [0]]]], 7]); //[1, 3, 4, 9, 0, 7]
 Difficulty: Easy
 
 ## **Problem 23**
-
 ### *Queen checks King*
 Given an imaginary chess board of size m x n including only 
 the Queen and the King write a function that takes the positions 
@@ -264,3 +240,13 @@ the Queen and the King write a function that takes the positions
 boolean telling whether or not the King is threatened by the Queen.
 
 Difficulty: Medium
+
+
+## **Problem 24**
+### *Unique Paths*
+Write a function that takes two inputs "n" and "m"
+and outputs the number of the unique paths from the top left
+cotner to the bottom right corner of a "n"x"m" grid.
+Constraints: you can only move down or right 1 unit at a time.
+
+Difficulty: Hard
