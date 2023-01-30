@@ -194,23 +194,10 @@ Difficulty: Easy
 By definition, the first two numbers in the Fibonacci sequence are 0 and 1, and each subsequent number is the sum of the previous two.
 
 For example, the first ten Fibonacci numbers are:
-0, 1, 1, 2, 3, 5, 8, 13, 21, 34
+"0, 1, 1, 2, 3, 5, 8, 13, 21, 34"
 Write a function that accepts a number and returns the number at that position in the fibonnaci sequence.
 
 Difficulty: Medium
-
-
-## **Problem 20**
-### *Fibonacci Next Number*
-
-Write a function that accepts an array of random integers and an integer n. 
-Determine the number of times where two integers in the array 
-have the difference of n.
-integerDifference([1, 1, 5, 6, 9, 16, 27], 4) //8
-integerDifference([1, 1, 3, 3], 2) //6
-
-Difficulty: Easy
-
 
 
 ## **Problem 21**
@@ -250,3 +237,12 @@ cotner to the bottom right corner of a "n"x"m" grid.
 Constraints: you can only move down or right 1 unit at a time.
 
 Difficulty: Hard
+
+
+## **Problem 25**
+### *Factorial*
+Write a function that takes input "n" and outputs
+the factorial of the given number. 
+(A factorial is a function that multiplies a number by every number below it. For example 5!= 5*4*3*2*1=120.)
+
+Difficulty: Easy
