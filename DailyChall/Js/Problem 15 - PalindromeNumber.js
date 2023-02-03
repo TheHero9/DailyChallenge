@@ -25,6 +25,34 @@ function palindromeNumber(number){
   }
   
   
+var isPalindrome = function(x) {
+  //Make an array with the integers
+  let array = x.toString().split('')
+
+  //1. If the number is negative - return false
+  if(x<0) return false
+   
+//Loop the array
+  for(let i=0; i<=array.length/2-0.5; i++){
+    // I is from start to the middle and j is from the end to the middle
+      let j = array.length-1-i
+     
+
+    //If the numbers are not equal => return false
+      if(array[i] === array[j]){
+      } else{
+        return false
+        break
+
+      }
+
+    //   If all the numbers are equal +> return true
+      if(i == Math.round(array.length/2-0.6)){
+        return true
+      }
+  }
+  
+};
   console.log(palindromeNumber(89798)) //Palindrome 
   console.log(palindromeNumber(781)) //Not a palindrome
   console.log(palindromeNumber(121)) //Palindrome

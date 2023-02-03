@@ -255,3 +255,25 @@ Given an array of integers, find the first missing positive integer in linear ti
 
 For example, the input [3, 4, -1, 1] should give 2. The input [1, 2, 0]should give 3.
 You can modify the input array in-place.
+
+
+## **Problem 27**
+### *Roman to Integer*
+Writa a roman numeral converter function. 
+
+| Symbol | Value  |
+|--------|--------|
+|    I   |   1    |
+|    V   |   5    | 
+|    X   |   10   |
+|    L   |   50   |
+|    C   |   100  |
+|    D   |   500  |
+|    M   |   1000 |
+
+Six special instances:
+- **I** can be placed before **V** (5) and **X** (10) to make 4 and 9. 
+- **X** can be placed before **L** (50) and **C** (100) to make 40 and 90. 
+- **C** can be placed before **D** (500) and **M** (1000) to make 400 and 900.
+
+
