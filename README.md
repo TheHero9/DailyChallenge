@@ -256,6 +256,8 @@ Given an array of integers, find the first missing positive integer in linear ti
 For example, the input [3, 4, -1, 1] should give 2. The input [1, 2, 0]should give 3.
 You can modify the input array in-place.
 
+Difficulty: Easy
+
 
 ## **Problem 27**
 ### *Roman to Integer*
@@ -276,4 +278,14 @@ Six special instances:
 - **X** can be placed before **L** (50) and **C** (100) to make 40 and 90. 
 - **C** can be placed before **D** (500) and **M** (1000) to make 400 and 900.
 
+Difficulty: Medium
 
+
+
+## **Problem 28**
+### *Length of Last Word*
+Given a string s consisting of words and spaces, return the length of the last word in the string.
+
+A word is a maximal substring consisting of non-space characters only.
+
+Difficulty: Easy
