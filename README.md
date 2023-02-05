@@ -263,7 +263,7 @@ Difficulty: Easy
 ### *Roman to Integer*
 Writa a roman numeral converter function. 
 
-<!-- | Symbol | Value  |
+| Symbol | Value  |
 |--------|--------|
 |    I   |   1    |
 |    V   |   5    | 
@@ -271,12 +271,8 @@ Writa a roman numeral converter function.
 |    L   |   50   |
 |    C   |   100  |
 |    D   |   500  |
-|    M   |   1000 | -->
+|    M   |   1000 |
 
-| Info:                                       |
-|------|----|----|----|----|-----|-----|------|
-|Symbol| I  | V  | X  | L  |  C  |  D  |   M  |
-|Value | 1  | 5  | 10 | 50 | 100 | 500 | 1000 |
 
 
 Six special instances:
