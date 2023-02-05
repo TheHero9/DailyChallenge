@@ -311,3 +311,9 @@ Constraints: 1 <= n <= 45
 
 Difficulty: Easy
 
+
+## **Problem 30**
+### *Reverse Number*
+Given an integer x, return x with its digits reversed. 
+EX.: x=123 -> 321; x=-123 -> -321; x=120 -> 21
+
