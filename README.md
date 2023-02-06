@@ -312,8 +312,19 @@ Constraints: 1 <= n <= 45
 Difficulty: Easy
 
 
-## **Problem 30**
+## **Problem 31**
 ### *Reverse Number*
 Given an integer x, return x with its digits reversed. 
 EX.: x=123 -> 321; x=-123 -> -321; x=120 -> 21
 
+Difficulty: Easy
+
+## **Problem 32**
+### *Shuffle Array*
+Given the array nums consisting of 2n elements in the form [x1,x2,...,xn,y1,y2,...,yn].
+
+Return the array in the form [x1,y1,x2,y2,...,xn,yn].
+
+Ex.: nums = [2,5,1,3,4,7], n = 3 => [2,3,5,4,1,7]
+
+Difficulty: Easy
