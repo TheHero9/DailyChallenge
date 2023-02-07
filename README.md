@@ -328,3 +328,15 @@ Return the array in the form [x1,y1,x2,y2,...,xn,yn].
 Ex.: nums = [2,5,1,3,4,7], n = 3 => [2,3,5,4,1,7]
 
 Difficulty: Easy
+
+## **Problem 33**
+### *Maximum Area*
+You are given an integer array *height* of length n. There are *n* vertical lines drawn such that the two endpoints of the *i*th line are *(i, 0)* and *(i, height[i])*.
+
+Find two lines that together with the x-axis form a rectangle.
+Return the biggest area of a possible rectangle.
+
+Ex.: maxArea(height = [1,8,6,2,5,4,8,3,7]) //49 <br/>
+ -> 8 & 7 -> one side is 7 and the other one is 7 => 49
+
+Difficulty: Medium
