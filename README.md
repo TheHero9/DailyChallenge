@@ -358,3 +358,12 @@ Ex:. findName(["coffee","donuts","toffee"]) //4 <br/>
 findName(["lack","back"])) //0
 
 Difficulty: Medium
+
+
+## **Problem 35**
+### *Two Arrays median*
+Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
+Ex.:   console.log(Median([1,3,4], [2])) //2.5
+
+Difficulty: Medium
+
