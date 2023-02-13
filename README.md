@@ -367,3 +367,8 @@ Ex.:   console.log(Median([1,3,4], [2])) //2.5
 
 Difficulty: Medium
 
+## **Problem 36**
+### *Two Arrays median*
+Given two non-negative integers low and high. Return the count of odd numbers between low and high (inclusive).
+
+Difficulty: Easy
