@@ -383,3 +383,16 @@ The integer division should truncate toward zero, which means losing its fractio
 Return the quotient after dividing dividend by divisor.
 
 Difficulty: Medium
+
+
+## **Problem 38**
+### *Pascal's Triangle*
+Given an integer numRows, return the first numRows of Pascal's triangle.
+
+In Pascal's triangle, each number is the sum of the two numbers directly above it as shown:
+
+<img src="Photos/pascaltriangle.png" alt="Pacal's triangle" width="100" height="100">
+
+Ex.: numRows(5) => [[1],[1,1],[1,2,1],[1,3,3,1],[1,4,6,4,1]]
+
+Difficulty: Medium
