@@ -391,7 +391,7 @@ Given an integer numRows, return the first numRows of Pascal's triangle.
 
 In Pascal's triangle, each number is the sum of the two numbers directly above it as shown:
 
-<img src="/Photos/pascaltriangle.png" alt="Pascal's triangle" width="100" height="100">
+<img src="DailyChall\Photos\pascaltriangle.png" alt="Pascal's triangle" width="200" height="200">
 
 Ex.: numRows(5) => [[1],[1,1],[1,2,1],[1,3,3,1],[1,4,6,4,1]]
 
@@ -404,7 +404,7 @@ Given an integer numRows, return the last numRow of Pascal's triangle.
 
 In Pascal's triangle, each number is the sum of the two numbers directly above it as shown:
 
-<img src="/Photos/pascaltriangle.png" alt="Pascal's triangle" width="100" height="100">
+<img src="DailyChall\Photos\pascaltriangle.png" alt="Pascal's triangle" width="200" height="200">
 
 Ex.: numRows(5) => [1,4,6,4,1]
 
